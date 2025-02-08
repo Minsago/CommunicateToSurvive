@@ -1,0 +1,14 @@
+p {
+    border-style: inset;
+    border-color: gray;
+    font-family: "Shadows Into Light";
+
+}
+body {
+    background-color: grey;
+}
+summary {
+    font-style: italic;
+    font-weight: 900;
+    font-family: "Shadows Into Light";
+}
